@@ -1,5 +1,5 @@
 public class Subtractor {
-    public void subtract(int a, int b){
-        System.out.println(a - b);
+    public int subtract(int a, int b){
+        return a-b;
     }
 }
